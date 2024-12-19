@@ -33,30 +33,28 @@ Copy code
    ```bash
    git clone https://github.com/MariaEduarda0603/springboot.git
    cd springboot
-Configure o banco de dados PostgreSQL:
+   
+**Configure o banco de dados PostgreSQL:**
 
 Crie um banco de dados para a aplicação.
-Atualize as configurações de conexão no arquivo application.properties (ou application.yml se estiver usando).
-Execute as migrações do Flyway:
+Atualize as configurações de conexão no arquivo application.properties.
+
+**Execute as migrações do Flyway:**
 
 As migrações do Flyway serão executadas automaticamente na inicialização da aplicação.
-Execute a aplicação:
 
-bash
-Insert Code
-Run
-Copy code
+2. **Execute a aplicação:**
+
+   ```bash
 mvn spring-boot:run
-Endpoints da API
+
+
+**Endpoints da API**
 GET /api/clientes: Retorna todos os clientes.
 GET /api/clientes/{id}: Retorna um cliente específico pelo ID.
 POST /api/clientes: Cria um novo cliente.
 PUT /api/clientes/{id}: Atualiza um cliente existente.
 DELETE /api/clientes/{id}: Deleta um cliente pelo ID.
-
-Insert Code
-Run
-Copy code
 
 
 - Se você tiver um arquivo de licença, adicione o link correto na seção de licença.
