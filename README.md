@@ -22,9 +22,7 @@ Este projeto é uma API CRUD (Create, Read, Update, Delete) desenvolvida com Spr
 - Deletar um cliente
 
 
-Insert Code
-Run
-Copy code
+
 
 ## Configuração do Ambiente
 
@@ -57,7 +55,7 @@ PUT /api/clientes/{id}: Atualiza um cliente existente.
 DELETE /api/clientes/{id}: Deleta um cliente pelo ID.
 
 
-- Se você tiver um arquivo de licença, adicione o link correto na seção de licença.
+
 - Adicione ou remova seções conforme necessário para refletir com precisão o seu projeto.
 
 Sinta-se à vontade para modificar o conteúdo conforme necessário! Se pr
