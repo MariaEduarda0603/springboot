@@ -1,0 +1,5 @@
+/home/numbers/springboot/src/main/java/com/br_ifg/cliente/entity/Cliente.java
+/home/numbers/springboot/src/main/java/com/br_ifg/cliente/controller/ClienteController.java
+/home/numbers/springboot/src/main/java/com/br_ifg/cliente/service/ClienteService.java
+/home/numbers/springboot/src/main/java/com/br_ifg/cliente/repository/ClienteRepository.java
+/home/numbers/springboot/src/main/java/com/br_ifg/cliente/ClienteApplication.java

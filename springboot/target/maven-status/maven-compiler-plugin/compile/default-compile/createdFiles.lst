@@ -1,0 +1,5 @@
+com/br_ifg/cliente/service/ClienteService.class
+com/br_ifg/cliente/entity/Cliente.class
+com/br_ifg/cliente/controller/ClienteController.class
+com/br_ifg/cliente/ClientBackendApplication.class
+com/br_ifg/cliente/repository/ClienteRepository.class
