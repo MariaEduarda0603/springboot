@@ -41,7 +41,6 @@ Atualize as configurações de conexão no arquivo application.properties.
 As migrações do Flyway serão executadas automaticamente na inicialização da aplicação.
 
 2. **Execute a aplicação:**
-
    ```bash
 mvn spring-boot:run
 
