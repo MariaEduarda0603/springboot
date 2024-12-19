@@ -33,7 +33,7 @@ Copy code
 1. **Clone o repositório:**
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/MariaEduarda0603/springboot.git
    cd springboot
 Configure o banco de dados PostgreSQL:
 
